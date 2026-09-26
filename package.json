@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-opencitations",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "OpenCitations MCP — citation index (COCI + general Index API).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c2fb3855d03f788bcde12874ab56b73024a95ec3eecb2c21c3a78429bb466171",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-3f958d82cb341ecdc7f0b88ee87adb9410bab4f5a9b423a05633c75766a019c4",
+    "sourceCommit": "97740c6ee04c8acbfe7dddcacfde9e88ff2b9ca0"
   }
 }
